@@ -1,1 +1,1 @@
-# C++_HackerRank
+# HackerRank Implementation
